@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, Tudo bem com você? 👋
+### Contatos 📫
+<a href="[[Link perfil no LinkedIn](https://www.linkedin.com/in/ronaldo-carlos-ferreira-9a8b48219/)]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[[Link gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)]"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+
+
 
 <!--
 **ronaferr/ronaferr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
