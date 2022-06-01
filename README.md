@@ -7,8 +7,9 @@
 [<img src="https://raw.githubusercontent.com/GabrielCoruja/GabrielCoruja/master/images/linkedin.png" heigth="50" width="50"/>](https://www.linkedin.com/in/ronaldo-carlos-ferreira-9a8b48219/)  [<img src="https://raw.githubusercontent.com/GabrielCoruja/GabrielCoruja/master/images/gmail.png" heigth="50" width="50"/>](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 ### GitHub Stats
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaferr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaferr&show_icons=true&theme=radical)
-
 
 <!--
 **ronaferr/ronaferr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
