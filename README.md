@@ -3,7 +3,7 @@
 Meu nome é Ronaldo, atualmente sou estudante de desenvolvimento web na Trybe, me apaixonando cada vez mais por esse universo da programação :heart:
 
 - 🔭 Tenho conhecimentos em HTML, CSS, JavaScript e FrontEnd.
-- 🌱 Atualmente estou aprendendo sobre React, Redux e como testá-los, estou gostando bastante.
+- 🌱 Atualmente estou aprendendo sobre React, Redux e como testá-los.
 - ⚡ Gosto de assuntos sobre quadrinhos, filmes, séries e música.
 
 ### Tecnologias e Ferramentas :technologist:
