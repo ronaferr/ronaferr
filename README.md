@@ -2,8 +2,8 @@
 
 Meu nome é Ronaldo, sou Dev Front end, atualmente sou estudante de desenvolvimento web na Trybe, me apaixonando cada vez mais por esse universo da programação :heart:
 
-- 🔭 Tenho conhecimentos em HTML, CSS, JavaScript, React, Redux, Docker, SQL, NodeJs, Heroku e Arquitetura de Software;
-- 🌱 Atualmente estou aprendendo sobre TypeScript e POO;
+- 🔭 Tenho conhecimentos em HTML, CSS, JavaScript, React, Redux, Docker, SQL, NodeJs, MongoDB, TypeScript, Heroku e Arquitetura de Software;
+- 🌱 Atualmente estou aprendendo sobre MongoDB;
 - ⚡ Gosto de assuntos sobre tecnologia, quadrinhos, filmes, séries e música.
 
 ### Tecnologias e Ferramentas :technologist:
