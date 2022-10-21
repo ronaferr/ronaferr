@@ -13,6 +13,10 @@ Meu nome é Ronaldo, sou Dev Front end, atualmente estou estudando desenvolvimen
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" heigth="100" width="50"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" heigth="100" width="50"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" heigth="100" width="50"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigth="100" width="50"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" heigth="100" width="50"/>
+         
+          
           
           
           
