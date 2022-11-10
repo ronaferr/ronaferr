@@ -1,6 +1,6 @@
 ### Olá, Tudo bem com você? 👋
 
-Meu nome é Ronaldo, sou Dev Front end, atualmente estou estudando desenvolvimento web na Trybe, me apaixonando cada vez mais por esse universo da programação :heart:
+Meu nome é Ronaldo, sou Dev Full Stack, atualmente estou estudando desenvolvimento web na Trybe, me apaixonando cada vez mais por esse universo da programação :heart:
 
 - 🔭 Tenho conhecimentos em HTML, CSS, JavaScript, React, Redux, Docker, SQL, NodeJs, MongoDB, TypeScript, Heroku e Arquitetura de Software;
 - 🌱 Atualmente estou aprendendo sobre MongoDB;
