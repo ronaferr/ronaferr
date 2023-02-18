@@ -2,7 +2,7 @@
 
 Meu nome é Ronaldo, sou Dev Full Stack, atualmente estou estudando desenvolvimento web na Trybe, me apaixonando cada vez mais por esse universo da programação :heart:
 
-- 🔭 Tenho conhecimentos em HTML, CSS, JavaScript, React, Redux, Docker, SQL, NodeJs, MongoDB, TypeScript, Heroku e Arquitetura de Software;
+- 🔭 Tenho conhecimentos em HTML, CSS, JavaScript, React, React Native Redux, Docker, SQL, NodeJs, MongoDB, TypeScript, Heroku e Arquitetura de Software;
 - 🌱 Atualmente estou aprendendo sobre Ciência da Computação e Python;
 - ⚡ Gosto de assuntos sobre tecnologia, quadrinhos, jogos e música.
 
