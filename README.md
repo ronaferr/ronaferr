@@ -1,9 +1,8 @@
 ### Olá, Tudo bem com você? 👋
 
-Meu nome é Ronaldo, sou Dev Full Stack, atualmente estou estudando desenvolvimento web na Trybe, me apaixonando cada vez mais por esse universo da programação :heart:
+Meu nome é Ronaldo, sou Dev Full Stack, formado em desenvolvimento web pela Trybe, me apaixonando cada vez mais por esse universo da programação :heart:
 
-- 🔭 Tenho conhecimentos em HTML, CSS, JavaScript, React, React Native, Redux, Docker, SQL, NodeJs, MongoDB, TypeScript, Heroku e Arquitetura de Software;
-- 🌱 Atualmente estou aprendendo sobre Ciência da Computação e Python;
+- 🔭 Tenho conhecimentos em HTML, CSS, JavaScript, React, React Native, Redux, Docker, SQL, NodeJs, MongoDB, TypeScript, Python, Heroku e Arquitetura de Software;
 - ⚡ Gosto de assuntos sobre tecnologia, quadrinhos, jogos e música.
 
 ### Tecnologias e Ferramentas :technologist:
@@ -15,6 +14,8 @@ Meu nome é Ronaldo, sou Dev Full Stack, atualmente estou estudando desenvolvime
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" heigth="100" width="50"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigth="100" width="50"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" heigth="100" width="50"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" heigth="100" width="50"/>
+          
          
           
           
